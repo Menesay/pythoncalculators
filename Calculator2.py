@@ -13,7 +13,7 @@ print("""
    / bölme
 
 Yapmak istediğiniz işlemi yazıp ENTER tuşuna basın. 
-(Örneğin 8 ve 4 sayılarınıçarpmak için 8 * 4 yazdıktan sonra ENTER tuşuna basın.)
+(Örneğin 8 ve 4 sayılarını çarpmak için 8 * 4 yazdıktan sonra ENTER tuşuna basın.)
 """)
 veri = input("İşleminiz: ")
 hesap = eval(veri)
